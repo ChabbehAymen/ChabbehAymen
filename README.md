@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PHP project<br>👯 I’m looking to collaborate on full-stack project<br>🤝 I’m looking for help with Android dev<br>🌱 I’m currently learning OS dev<br>💬 Ask me about Laravel<br>⚡ Fun fact I love Java
+🔭 I’m currently working on PHP project<br>👯 I’m looking to collaborate on full-stack project<br>🤝 I’m skaling my knowledge with Android dev<br>🌱 I’m currently learning OS dev<br>💬 Ask me about Laravel<br>⚡ Fun fact I love Java
 
 
 ## 🌐 Socials:
